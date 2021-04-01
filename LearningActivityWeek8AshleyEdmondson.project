@@ -34,6 +34,14 @@
             "describeYou",
             "describeYou.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favExercises",
+            "favExercises.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "describeYou",
+      "firstform": "favExercises",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
